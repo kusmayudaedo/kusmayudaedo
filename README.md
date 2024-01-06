@@ -38,9 +38,6 @@ Hi, I am Edo, a former network engineer who transitioned to the web development 
 ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=kusmayudaedo&show_icons=true)
 
 #
-
-### 
-
 <details>
  <summary><h3>:chart_with_upwards_trend: My Coding Journey</h3></summary>
 It began in 2021 when the pandemic hit and proved that work from anywhere is possible to do. Unfortunately, as a network engineer, the opportunity to work from anywhere is more limited due to the nature of our role, which involves being in direct contact with networking hardware and the need to be readily available in case of emergencies. After conducting extensive research into remote job opportunities, I have come to the conclusion that pursuing a career in web development aligns best with my interests, goals, and educational background as well.
