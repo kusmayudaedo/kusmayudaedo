@@ -28,6 +28,10 @@ Hi, I am Edo, a former network engineer who transitioned to web development real
 
 ### :construction_worker: My Works
 
+<a href='https://kerja-id.onrender.com/' target="_blank">
+  <img src='https://github.com/kusmayudaedo/kusmayudaedo/blob/main/Kerja-id.jpg' width=300 />
+</a>
+  
 #
 
 ### 📊 Stats
