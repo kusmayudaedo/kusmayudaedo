@@ -32,6 +32,10 @@ Hi, I am Edo, a former network engineer who transitioned to the web development 
   <img src='https://github.com/kusmayudaedo/kusmayudaedo/blob/main/Kerja-id.jpg' width=300 />
 </a>
 
+<a href='https://dolanan-id.vercel.app/'>
+  <img src='https://github.com/kusmayudaedo/kusmayudaedo/blob/main/Dolanan-id.png' width=300 />
+</a>
+
 #
 
 ### 📊 Stats
